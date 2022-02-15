@@ -5,7 +5,7 @@
 
 # Installation
 To download from github, you would need to
-1. Click on the green button with brackets like `< >`
+1. Click on the green button with the text "Code ▼"
 2. Click on the "Download Zip" button
 
 To install in TF2, put it inside your custom folder
