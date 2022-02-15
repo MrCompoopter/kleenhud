@@ -281,14 +281,14 @@ Scheme
 			}
 		}
 		
-		"G_FontMainMenuItem"
+		"G_FontMainMenuItem" //removed [!$WINDOWS]  from these since they make it small on Linux
 		{
 			"1"
 			{
-				"name"			"TF2 Build" [$WINDOWS] // Primary font
-				"name"			"TF2 Build" [!$WINDOWS] // Primary font
-				"tall"			"20" [$WINDOWS] // Font Size Big Main Menu
-				"tall"			"10" [!$WINDOWS] // Font Size Big Main Menu
+				"name"			"TF2 Build" // Primary font
+				"name"			"TF2 Build" // Primary font
+				"tall"			"20" // Font Size Big Main Menu
+				"tall"			"10" // Font Size Big Main Menu
 				"weight"		"0"
 				"additive"		"0"
 				"antialias" 	"1"
