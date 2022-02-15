@@ -11,6 +11,6 @@ To download from github, you would need to
 To install in TF2, put it inside your custom folder
 
 # Troubleshooting
-This HUD does not support HUD minmone, please disable minmode by typing this in console `cl_hud_minmode 0`
+This HUD does not support HUD minmode, please disable minmode by typing this in console `cl_hud_minmode 0`
 
 If the HUD crashes, delete the cfg folder
