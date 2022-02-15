@@ -62,7 +62,7 @@
 				"depressedFgColor_override" "46 43 42 255"
 				
 				"image_drawcolor"	"38 30 22 255" // Main Menu button text color
-				"image_armedcolor"	"240 240 240 255" // Main Menu hovered button text color
+				"image_armedcolor"	"236 227 203 255" // Main Menu hovered button text color
 				
 				"SubImage"
 				{
@@ -244,15 +244,15 @@
 	{
 		"ControlName"		"ImagePanel"
 		"fieldName"			"TFLogoImage"
-		"xpos"				"110"
+		"xpos"				"c-310"
 		"ypos"				"32"
 		"zpos"				"1"
-		"wide"				"170" //definitley not 200
+		"wide"				"160"
 		"tall"				"40"
 		"visible"			"1"
 		"enabled"			"1"
 		"image"				"../logo/new_tf2_logo"
-		"scaleImage"		"1" //1
+		"scaleImage"		"1"
 		"mouseinputenabled"	"0"
 	}
 	
