@@ -3,6 +3,9 @@
 
 **Kleenhud** is my main TF2 HUD that i use, and i base this HUD for all of my other HUD projects like No White Borders HUD, e.v.e Kleen Edition, and Arsenal HUD.
 
+Instead of a gallery, heres an interactive demo of Kleenhud (currently incomplete, though still usable)
+https://www.figma.com/proto/67upuQzkwwtszNuXXMtifp/TF-LOGIC?node-id=2%3A5&scaling=contain&page-id=0%3A1&starting-point-node-id=2%3A5
+
 # Installation
 To download from github, you would need to
 1. Click on the green button with the text "Code ▼"
