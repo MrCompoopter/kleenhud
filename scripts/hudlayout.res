@@ -2011,12 +2011,12 @@
 		"visible"				"1"
 		"enabled"				"1"
 		"xpos"					"r635"		//"r640"
-		"ypos"					"6"
+		"ypos"					"23"	//"6"
 		"zpos"					"0"
 		"wide"					"628"
 		"tall"					"468"
 
-		"MaxDeathNotices"		"8"
+		"MaxDeathNotices"		"50"	//"8"
 		"IconScale"				"0.35"
 		"LineHeight"			"12"
 		"LineSpacing"			"0"
@@ -3044,9 +3044,4 @@
 		"mouseinputenabled"		"0"
 		"alpha"					"100"
 	}
-
 }
-
-
-
-

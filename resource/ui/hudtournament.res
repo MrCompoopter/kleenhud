@@ -1022,9 +1022,10 @@
 		{
 			"ypos"			"r-100"
 		}
+		
 		if_mvm
 		{
-			"ypos"			"r-40"
+			"ypos"			"r52"	//"r-100"
 		}
 
 	}
@@ -1060,6 +1061,7 @@
 			"xpos"			"300"
 			"ypos"			"130"
 		}
+		
 	}
 	
 	"CountdownLabelShadow"
